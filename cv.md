@@ -3,7 +3,7 @@
 ## Contacts
 * +375 (44) 726-55-07 - preferred means of communication
 * sergik3001@gmail.com
-* [LinedIn](https://www.linkedin.com/in/sergey-klybik-20b6b4108/)  
+* [LinkedIn](https://www.linkedin.com/in/sergey-klybik-20b6b4108/)  
 
 ## About me  
 
