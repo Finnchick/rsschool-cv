@@ -1,0 +1,16 @@
+html {
+	box-sizing: border-box;
+	background-color: #F5F5F5;
+}
+
+.central-container {
+	width: 650px;
+	padding: 30px;
+	margin: 30px auto;
+	background-color: rgb(255, 255, 255);
+}
+
+.cv-name {
+	float: right;
+	margin: 0 0 20px;
+}
