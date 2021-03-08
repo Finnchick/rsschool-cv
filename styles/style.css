@@ -14,3 +14,9 @@ html {
 	float: right;
 	margin: 0 0 20px;
 }
+
+footer {
+	padding: 1rem;
+	border-top: ridge #000000;
+	border-width: 1px;
+}
